@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido utilizando o Mysql.
 
 ## 💻 Projeto
 
-O bd-company é projeto de banco de dados para um cenário de empresarial.
+O bd-company é projeto de banco de dados para um cenário empresarial.
 
 ---
 
